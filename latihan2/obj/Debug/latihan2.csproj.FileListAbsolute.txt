@@ -1,0 +1,13 @@
+C:\Users\rplsi\source\repos\latihan2\latihan2\bin\Debug\latihan2.exe.config
+C:\Users\rplsi\source\repos\latihan2\latihan2\bin\Debug\latihan2.exe
+C:\Users\rplsi\source\repos\latihan2\latihan2\bin\Debug\latihan2.pdb
+C:\Users\rplsi\source\repos\latihan2\latihan2\obj\Debug\latihan2.csproj.AssemblyReference.cache
+C:\Users\rplsi\source\repos\latihan2\latihan2\obj\Debug\latihan2.Form_Login.resources
+C:\Users\rplsi\source\repos\latihan2\latihan2\obj\Debug\latihan2.Properties.Resources.resources
+C:\Users\rplsi\source\repos\latihan2\latihan2\obj\Debug\latihan2.csproj.GenerateResource.cache
+C:\Users\rplsi\source\repos\latihan2\latihan2\obj\Debug\latihan2.csproj.CoreCompileInputs.cache
+C:\Users\rplsi\source\repos\latihan2\latihan2\obj\Debug\latihan2.exe
+C:\Users\rplsi\source\repos\latihan2\latihan2\obj\Debug\latihan2.pdb
+C:\Users\rplsi\source\repos\latihan2\latihan2\obj\Debug\latihan2.Form_Menu.resources
+C:\Users\rplsi\source\repos\latihan2\latihan2\obj\Debug\Interop.ADODB.dll
+C:\Users\rplsi\source\repos\latihan2\latihan2\obj\Debug\latihan2.csproj.ResolveComReference.cache
